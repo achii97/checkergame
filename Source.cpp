@@ -1,3 +1,4 @@
+//This project is may have few errors and I will try to fix them as soon as possible.
 #include<iostream>
 #include<cstdlib>
 #include<conio.h>
